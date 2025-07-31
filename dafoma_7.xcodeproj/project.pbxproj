@@ -32,8 +32,8 @@
 		F99AD04F2E354426000D44C5 = {
 			isa = PBXGroup;
 			children = (
-				F99AD05A2E354426000D44C5 /* dafoma_7 */,
 				F99AD0592E354426000D44C5 /* Products */,
+				F99AD05A2E354426000D44C5 /* dafoma_7 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -266,7 +266,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "app.dafoma-7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -301,7 +301,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "app.dafoma-7";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
